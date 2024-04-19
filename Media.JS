@@ -1,4 +1,4 @@
-console.log("digite as notas após o (ok)");
+alert("digite as notas após o (ok)");
 
 let N1 = parseInt(prompt("1ªnota: "));
 let N2 = parseInt(prompt("2ªnota: "));
